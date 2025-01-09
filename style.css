@@ -64,6 +64,13 @@ nav ul a {
      border: none;
      border-radius: 5px;
 }
+
+.btn-primary a {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
 .banner {
     margin-left: 170px;
     display: flex;
